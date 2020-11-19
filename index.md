@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# sec-conference-journal
+Record conference and journal for network security. Sorted by level confirmed by CCF. 
 
-You can use the [editor on GitHub](https://github.com/GentleCP/sec-conference-journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# A
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Usenix Sec](https://www.usenix.org/conference)
 
-### Markdown
+- [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
+- [2019](https://www.usenix.org/conference/usenixsecurity19/technical-sessions)
+- [2018](https://www.usenix.org/conference/usenixsecurity18/technical-sessions)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [IEEE S&P](https://www.ieee-security.org/)
 
-```markdown
-Syntax highlighted code block
+- [2020](https://www.ieee-security.org/TC/SP2020/program-papers.html)
+- [2019](https://www.ieee-security.org/TC/SP2019/program-papers.html)
+- [2018](https://www.ieee-security.org/TC/SP2018/program-papers.html)
 
-# Header 1
-## Header 2
-### Header 3
+## [CCS](https://www.sigsac.org/ccs)
 
-- Bulleted
-- List
+- [2020](https://www.sigsac.org/ccs/CCS2020/proceedings.html)
+- [2019](https://sigsac.org/ccs/CCS2019/index.php/proceedings/)
+- [2018](https://dl.acm.org/doi/proceedings/10.1145/3243734)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# B
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [NDSS](https://www.ndss-symposium.org/ndss-program/)
 
-### Jekyll Themes
+- [2020](https://www.ndss-symposium.org/ndss-program/2020-program/)
+- [2019](https://www.ndss-symposium.org/ndss-program/ndss-symposium-2019-program/)
+- [2018](https://www.ndss-symposium.org/ndss2018/programme/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GentleCP/sec-conference-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
